@@ -9,8 +9,8 @@ _Currently, we are beta testing providing the tool directly to our customers. If
 ## 1. Install the App
 
 Download the latest installer for
-[Windows](https://github.com/bullhorn/dataloader-app/releases/download/v2.3.1/Bullhorn-Data-Loader-Setup-2.3.1.exe)
-or [Mac](https://github.com/bullhorn/dataloader-app/releases/download/v2.3.1/Bullhorn-Data-Loader-2.3.1.dmg)
+[Windows](https://github.com/bullhorn/dataloader-app/releases/download/v2.4.0/Bullhorn-Data-Loader-Setup-2.4.0.exe)
+or [Mac](https://github.com/bullhorn/dataloader-app/releases/download/v2.4.0/Bullhorn-Data-Loader-2.4.0.dmg)
 
 ## 2. Enter your Credentials
 
