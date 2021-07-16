@@ -4,8 +4,6 @@ A desktop application for Windows and Mac that wraps the [Bullhorn Data Loader](
 
 _The app handles loading data only. For features such as exporting and deleting data, parsing and uploading resumes and files, use the [Bullhorn Data Loader](https://github.com/bullhorn/dataloader) on the command line._
 
-_Currently, we are beta testing providing the tool directly to our customers. If you are interested in participating in the beta, please reach out to Bullhorn Support in order to secure an API key._
-
 ## 1. Install the App
 
 Download the latest installer for
