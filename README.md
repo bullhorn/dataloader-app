@@ -1,7 +1,7 @@
 # Bullhorn Data Loader Desktop App
 
-A desktop application for Windows and Mac that wraps the [Bullhorn Data Loader](https://github.com/bullhorn/dataloader) in a convenient, user friendly app. 
-
+A desktop application for Windows and Mac that wraps the [Bullhorn Data Loader](https://github.com/bullhorn/dataloader) in a convenient, user friendly app. Check out the [Getting Started Video](https://drive.google.com/file/d/1voimdi5vZOj7bmAU-WrGL2ht9C5oP8c1/view).
+ 
 _The app handles loading data only. For features such as exporting and deleting data, parsing and uploading resumes and files, use the [Bullhorn Data Loader](https://github.com/bullhorn/dataloader) on the command line._
 
 ## 1. Install the App
