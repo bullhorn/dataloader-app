@@ -7,8 +7,8 @@ _The app handles loading data only. For features such as exporting and deleting 
 ## 1. Install the App
 
 Download the latest installer for
-[Windows](https://github.com/bullhorn/dataloader-app/releases/download/v2.6.2/Bullhorn-Data-Loader-Setup-2.6.2.exe)
-or [Mac](https://github.com/bullhorn/dataloader-app/releases/download/v2.6.2/Bullhorn-Data-Loader-2.6.2.dmg)
+[Windows](https://github.com/bullhorn/dataloader-app/releases/download/v2.7.0/Bullhorn-Data-Loader-Setup-2.7.0.exe)
+or [Mac](https://github.com/bullhorn/dataloader-app/releases/download/v2.7.0/Bullhorn-Data-Loader-2.7.0.dmg)
 
 ## 2. Enter your Credentials
 
